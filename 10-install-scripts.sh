@@ -5,5 +5,5 @@ then
 echo "ERROR:: you must have sudo access to excute this"
 fi
 
-dnf install mysqll -y
+dnf install mysql -y
 dnf install git -y
